@@ -12,6 +12,7 @@ Dê uma olhada e se inspire! 🚀
 -------------------------------------------------------------------------------------------------------------------------------
 
 📜 Requisitos do Desafio:
+
 💡 HTML: Capriche no uso das **tags semânticas**! Elas são a alma de um HTML bem estruturado e ajudam na **acessibilidade**. Pense em como organizar seu código de forma clara e lógica.
 - Estruturar os botões das tecnologias conforme o exemplo. (Imagens das tecnologias anexadas nesse repositório)
 - Estruturar um formulário com os seguintes campos:
