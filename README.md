@@ -5,7 +5,7 @@ O objetivo aqui é colocar em prática o que vocês sabem de HTML e CSS e, pra q
 🌐 Link do Deploy Base
 Para se basear, aqui está o link do deploy base:
 
-[Desafio Imply](desafio-imply-resposta.vercel.app)
+[Desafio Imply](https://desafio-imply-resposta.vercel.app)
 
 Dê uma olhada e se inspire! 🚀
 
